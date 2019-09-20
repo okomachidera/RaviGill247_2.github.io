@@ -1,4 +1,4 @@
-# Jekyll Resume Theme
+# Ravi's lab_2
 
 Live demo at https://jekyll-theme-minimal-resume.netlify.com/
 
